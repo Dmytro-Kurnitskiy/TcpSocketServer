@@ -1,0 +1,14 @@
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/bin/Debug/net8.0/TcpSocketServer
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/bin/Debug/net8.0/TcpSocketServer.deps.json
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/bin/Debug/net8.0/TcpSocketServer.runtimeconfig.json
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/bin/Debug/net8.0/TcpSocketServer.dll
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/bin/Debug/net8.0/TcpSocketServer.pdb
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/obj/Debug/net8.0/TcpSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/obj/Debug/net8.0/TcpSocketServer.AssemblyInfoInputs.cache
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/obj/Debug/net8.0/TcpSocketServer.AssemblyInfo.cs
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/obj/Debug/net8.0/TcpSocketServer.csproj.CoreCompileInputs.cache
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/obj/Debug/net8.0/TcpSocketServer.dll
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/obj/Debug/net8.0/refint/TcpSocketServer.dll
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/obj/Debug/net8.0/TcpSocketServer.pdb
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/obj/Debug/net8.0/TcpSocketServer.genruntimeconfig.cache
+/Users/dmytrokurnitskiy/RiderProjects/TcpSocketServer/TcpSocketServer/obj/Debug/net8.0/ref/TcpSocketServer.dll
